@@ -3,7 +3,5 @@
 # 测试环境
 # 由系统生成
 
-print ("hello world")
-
-test tests testsw cisco3DES
-test tests testsw cisco3DES
+print ("hello world!")
+print ("welcom to my test envirment of python")
